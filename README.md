@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">EXOBOX Is A Best Hacked For Minecraft Pe built for Minigame Servers</a>.</h4>
+<h4 align="center">EXOBOX Is one of the Best Hacked For Minecraft Pe built for Minigame Servers</a>.</h4>
 
 [![Github All Releases](https://img.shields.io/github/downloads/ExoCubeYT/ExoBox/total.svg)]()
 
