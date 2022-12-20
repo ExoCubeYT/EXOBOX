@@ -9,7 +9,7 @@
 
 <h4 align="center">EXOBOX Is A Minecraft PE Hacked client built for Minigame Servers</a>.</h4>
 
-[![Github All Releases](https://img.shields.io/github/downloads/NotMer/EXOBOX/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/ExoCubeYT/ExoBox/total.svg)]()
 
 ## Main Features
 
@@ -39,7 +39,7 @@ i decided to make this closed sourced, this did affect our playerbase as ```Anti
 
 ## Download
 
-You can [download](https://github.com/NotMer/EXOBOX/releases) here.
+You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 
 ## GUI
 ![](gui.jpg)
