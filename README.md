@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="https://cdn.discordapp.com/attachments/827104610355380224/1054716733480521738/icon.png" alt="MClient++" width="200"></a>
+  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="https://cdn.discordapp.com/attachments/827104610355380224/1054716733480521738/icon.png" alt="Exobox" width="200"></a>
   <br>
   EXOBOX
   <br>
@@ -9,7 +9,7 @@
 
 <h4 align="center">EXOBOX Is A Minecraft PE Hacked client built for Minigame Servers</a>.</h4>
 
-[![Github All Releases](https://img.shields.io/github/downloads/ExoCubeYT/EXOBOX/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/NotMer/EXOBOX/total.svg)]()
 
 ## Main Features
 
@@ -39,7 +39,7 @@ i decided to make this closed sourced, this did affect our playerbase as ```Anti
 
 ## Download
 
-You can [download](https://github.com/ExoCubeYT/EXOBOX/releases) here.
+You can [download](https://github.com/NotMer/EXOBOX/releases) here.
 
 ## GUI
 ![](gui.jpg)
@@ -59,7 +59,7 @@ You can [download](https://github.com/ExoCubeYT/EXOBOX/releases) here.
 
 - [ApkEditorMaster](https://www.mediafire.com/file/kret3hpauekxcvs/ApkEditorMaster.apk/file)
 - [NP Manager](https://wwk.lanzoue.com/i5gx90fufe6b)
-- [MT Manager](https://mtmanager.co/)
+- [MT Manager](https://mt2.cn)
 
 
 
