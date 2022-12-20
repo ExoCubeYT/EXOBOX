@@ -25,7 +25,7 @@
 * **Performance improving mods**
 
 ## Close Source Info
-> We originally planned EXOBOX to be ```Open Sourced``` but due to the fact that alot of people telling me they will skid EXOBOX
+> We originally planned EXOBOX to be ```Open Sourced``` but due to the fact that alot of people will skid EXOBOX
 i decided to make this closed sourced, this did affect our playerbase as ```AntiVirus Softwares will flag it as a virus``` because it thinks that we are hiding something dangerous because we encrypted EXOBOX, EXOBOX is 100% safe. we have over 10k+ downloads to confirm
 
 ## How To Use
@@ -52,9 +52,16 @@ You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 - [ExoCube YT](https://www.youtube.com/c/ExoCubeYT)
 
 
-**Helpers/Close Friends**
+**Close Friends**
+
 - [Merci](https://www.youtube.com/channel/UC_6BCq6s3Kz50Wynr753_UA)
-- [Toolbox Pro](https://dsc.gg/tbpro)
+- [Ayaan](https://m.youtube.com/@AYAANMCPE)
+
+**Credits**
+
+- **Premium** - [Toolbox Pro](https://dsc.gg/tbpro)
+
+- **Encryption | Github** - [Merci](https://dsc.gg/mclient)
 
 
 **Apps i used**
