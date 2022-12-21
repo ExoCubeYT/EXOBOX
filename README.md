@@ -32,7 +32,7 @@
 * **300+ Extra Functions Within The Mod Menu**
 * **EXOBOX Has Bypasses On Most Popular Servers In which You Can Fun With The Hacks**
 * **It Also Includes 1 Click To Unlock all Premium Features!
-* ** [Download Now!](https://dsc.gg/exocube) NOW OFFICIALY AVAILABLE ON BOTH YOUTUBE AND DISCORD!
+* ** [Download Now!](https://dsc.gg/exocube) NOW OFFICIALY AVAILABLE ON BOTH YOUTUBE AND DISCORD!**
 
 ## Requirements
 
