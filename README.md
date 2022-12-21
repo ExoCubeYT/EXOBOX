@@ -24,6 +24,21 @@
 * **Best Hacks Of All Time**
 * **Performance improving mods**
 
+## More Info
+
+**Welcome To EXOBOX  A Best Hack Client/ Utility Mod For Android**
+> EXOBOX Includes The Following Features
+
+* **300+ Extra Functions Within The Mod Menu**
+* **EXOBOX Has Bypasses On Most Popular Servers In which You Can Fun With The Hacks**
+* **It Also Includes 1 Click To Unlock all Premium Features!
+* ** [Download Now!](https://dsc.gg/exocube) NOW OFFICIALY AVAILABLE ON BOTH YOUTUBE AND DISCORD!
+
+## Requirements
+
+- **To Enjoy With Best Experience Please Download 64Bit MCPE With Many Extra Features and Advantages**
+
+
 ## Close Source Info
 > We originally planned EXOBOX to be ```Open Sourced``` but due to the fact that alot of people will skid EXOBOX
 i decided to make this closed sourced, this did affect our playerbase as ```AntiVirus Softwares will flag it as a virus``` because it thinks that we are hiding something dangerous because we encrypted EXOBOX, EXOBOX is 100% safe. we have over 10k+ downloads to confirm
