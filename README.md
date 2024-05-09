@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="https://cdn.discordapp.com/attachments/827104610355380224/1054716733480521738/icon.png" alt="Exobox" width="200"></a>
+  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="https://cdn.discordapp.com/attachments/827104610355380224/1054716733480521738/icon.png" alt="EXOBOX" width="200"></a>
   <br>
   EXOBOX
   <br>
@@ -15,6 +15,7 @@
 
 * **KillAura**
 * **CrystalAura**
+* **TP Aura**
 * **Fly bypasses**
 * **Infinite Time**
 * **Smooth GUI**
