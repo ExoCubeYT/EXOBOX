@@ -85,8 +85,7 @@ You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 - [ApkEditorMaster](https://www.mediafire.com/file/kret3hpauekxcvs/ApkEditorMaster.apk/file)
 - [NP Manager](https://wwk.lanzoue.com/i5gx90fufe6b)
 - [MT Manager](https://mt2.cn)
-
-
+- [Apk editor Studio](https://qwertycube.com/apk-editor-studio/)
 
 ## Links
 
