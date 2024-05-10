@@ -17,7 +17,7 @@
 * **CrystalAura**
 * **TP Aura**
 * **Fly bypasses**
-* **Infinite Time**
+* **Infinite Premium**
 * **Smooth GUI**
 * **Kill Aura Swing**
 * **Best Combat Hacks**
@@ -70,8 +70,9 @@ You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 
 **Close Friends**
 
-- [Merci](https://www.youtube.com/channel/UC_6BCq6s3Kz50Wynr753_UA)
-- [Ayaan](https://m.youtube.com/@AYAANMCPE)
+- [BeestoXD](https://www.youtube.com/channel/UCSyGUZvjy0QgKq8HCRaTOaQ)
+- [Lodingglue](https://www.youtube.com/@LODINGGLUE69)
+- [AYAAN MCPE](https://m.youtube.com/@AYAANMCPE)
 
 **Credits**
 
