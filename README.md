@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="https://cdn.discordapp.com/attachments/827104610355380224/1054716733480521738/icon.png" alt="EXOBOX" width="200"></a>
+  <a href="https://www.youtube.com/c/ExoCubeYT"><img src="icon.png" alt="EXOBOX" width="200"></a>
   <br>
   EXOBOX
   <br>
@@ -75,9 +75,9 @@ You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 
 **Credits**
 
-- **Premium** - [BeestoXD](https://dsc.gg/tbpro)
+- **Premium** - [BeestoXD]([https://dsc.gg/tbpro](https://discord.gg/Cv4ntDv9D9))
 
-- **Encryption | Github** - [Merci](https://dsc.gg/mclient)
+- **Encryption | Github** - [ExoCubeYT](https://www.youtube.com/ExoCubeYT)
 
 
 **Apps i used**
