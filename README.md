@@ -75,7 +75,7 @@ You can [download](https://github.com/ExoCubeYT/ExoBox/releases) here.
 
 **Credits**
 
-- **Premium** - [BeestoXD]([https://dsc.gg/tbpro](https://discord.gg/Cv4ntDv9D9))
+- **Premium** - [BeestoXD](https://discord.gg/Cv4ntDv9D9)
 
 - **Encryption | Github** - [ExoCubeYT](https://www.youtube.com/ExoCubeYT)
 
