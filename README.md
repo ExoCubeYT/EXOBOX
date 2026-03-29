@@ -3,7 +3,7 @@
   <br>
   <a href="https://www.youtube.com/c/ExoCubeYT"><img src="icon.png" alt="EXOBOX" width="200"></a>
   <br>
-  EXOBOX
+  [DISCONTINUED] EXOBOX
   <br>
 </h1>
 
